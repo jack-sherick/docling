@@ -1,1 +1,15 @@
-/__pycache__
+# Python virtual environment (created via `python -m venv .` in this directory)
+/bin/
+/include/
+/lib/
+/share/
+/pyvenv.cfg
+
+# Python bytecode cache
+__pycache__/
+
+# Generated/regenerable data
+/chroma-db/
+/eval-results/
+/docling-output/
+/docling-output-large/
