@@ -1,1 +1,14 @@
-/__pycache__
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets
+.env
+
+# output
+s3-downloads/
+docling-output*/
+chroma-db/
+eval-results/
