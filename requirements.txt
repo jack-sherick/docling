@@ -1,0 +1,13 @@
+# convert_rfp.py
+docling==2.126.0
+docling-core==2.95.0
+tiktoken==0.14.0
+boto3==1.43.92  # only needed for s3:// sources
+
+# embed_chunks.py
+chromadb==1.5.9
+sentence-transformers==6.0.1
+
+# run_eval.py
+requests==2.32.3
+openai==1.84.0
